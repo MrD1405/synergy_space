@@ -1,0 +1,3 @@
+//as of now only male charcater in a single room
+//next femnale character and multiple room options
+//create addMember,newMember(server-emit),allMembers(server-emit),randomPlaceGenerator()
